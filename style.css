@@ -1,0 +1,210 @@
+*, html, body{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0px;
+    padding: 0px;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.top-item{
+    position: relative;
+    top: -400px;
+    margin: 15px;
+    
+}
+.logo-1{
+    color: black;
+    border: 1px solid rgb(37, 27, 27);
+    border-radius: 100px;
+    display: inline;
+    background-color: white;
+    padding: 10px;
+    margin: 5px;
+}
+.logo-box{
+    background-color: rgb(175, 60, 60);
+    border: 1px solid rgb(175, 60, 60);
+    position: relative;
+    top: -315px;
+    right: -231px;
+    width: 5px;
+    padding: 31px;
+    height: 50%;
+    
+}
+.nav-top{
+    position: relative;
+    right: -40px;
+}
+ul{
+    background-color: white;
+    padding: 20px;
+    width: 50%;
+    border: 1px solid white;
+    position: relative;
+    right: -300px;
+    top: -380px;
+
+    
+}
+ul li{
+    display: inline; 
+    
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    margin: 5px;
+    font-size: 15px;
+    position: relative;
+    left: 20%;
+}
+.coloured-icon{
+    color: red;
+    position: relative;
+    right: 40%;
+    font-size: 20px;
+}
+.icon-2{
+    color: red;
+}
+.icon-2:hover{
+    background-color: red;
+}
+.content-1{
+    position: relative;
+    top: -280px;
+    
+}
+.header-10{
+    color: red;
+    text-decoration-line: underline;
+    font-size: 20px;
+    margin: 5px;
+}
+.header-13{
+    margin: 5px;
+    color: white;
+    background-color: red;
+    background-size: 20px;
+    padding: 5px;
+    width: 150px;
+    position: relative;
+    right: -590px;
+}
+.flex-container-6{
+    display: flex;
+     height:100px;
+    position: relative;
+    top: -205px;
+
+    
+}
+.dot-1{
+    background-color: black;
+    border: 2px solid black;
+    height: 10px;
+    width: 10px;
+    margin: 5px;
+    border-radius: 15px;
+
+}
+.dot-2{
+    background-color: rgb(73, 70, 70);
+    border: 2px solid black;
+    height: 10px;
+    width: 10px;
+    margin: 5px;
+    border-radius: 15px;
+}
+.dot-3{
+    background-color: rgb(70, 69, 69);
+    border: 2px solid black;
+    height: 10px;
+    width: 10px;
+    margin: 5px;
+    border-radius: 15px;
+
+}
+.first-border-div{
+    position: relative;
+    top: -250px;
+}
+.header-4{
+    font-size: 20px;
+    text-decoration-line: underline;
+    margin: 10px;
+}
+.flex-container-1{
+    display: flex;
+    position: relative;
+    top: -250px;
+    margin: 20px;
+    }
+.box-1{
+    border: 2px solid green;
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    margin: 5px;
+}
+.box-2{
+    border: 2px solid yellow;
+    height: 150px;
+    width: 150px;
+    background-color: yellow;
+    margin: 5px;
+}
+
+.box-3{
+    border: 2px solid skyblue;
+    height: 150px;
+    width: 150px;
+    background-color: skyblue;
+    margin: 5px;
+}
+
+.box-4{
+    border: 2px solid seagreen;
+    height: 150px;
+    width: 150px;
+    background-color: seagreen;
+    margin: 5px;
+}
+.header-20{
+    position: relative;
+    top: -250px;
+    margin: 20px;
+}
+.style-1{
+    font-size: 20px;
+    text-decoration-line: underline;
+    margin: 5px;
+}
+.flex-container-2{
+    display: flex;
+    position: relative;
+    top: -250px;
+
+
+}
+.flex-container-23{
+    display: flex;
+    position: relative;
+    top:-200px;
+}
+.flex-content-30{
+    margin: 5px;
+}
+
+
+
+
+
+    
+    
+
+
+ 
+
